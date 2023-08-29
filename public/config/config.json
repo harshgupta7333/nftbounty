@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "<your-contract-address>",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/<your-contract-address>",
+  "CONTRACT_ADDRESS": "0xCBBBBFE944Df7EcE28F72A61bFE55e7ce7F67890",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xCBBBBFE944Df7EcE28F72A61bFE55e7ce7F67890",
   "NETWORK": {
     "NAME": "Polygon Mumbai",
     "SYMBOL": "MATIC",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea Testnets",
-  "MARKETPLACE_LINK": "<your-opensea-nft-collection-url>",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/harsh-polyaliens-1",
   "SHOW_BACKGROUND": false
 }
